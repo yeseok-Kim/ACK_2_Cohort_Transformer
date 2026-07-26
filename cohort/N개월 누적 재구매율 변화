@@ -59,6 +59,7 @@ table.auto_set_font_size(False)
 table.set_fontsize(11)
 table.scale(1.1, 2.2)
 
+
 # 색상: 재구매율 높을수록 진한 파랑
 value_cols = [f'+{p}개월' for p in periods]
 all_vals = cumulative_df[value_cols].values.flatten()
