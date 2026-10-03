@@ -1,5 +1,7 @@
 # RFM–코호트 기반 이산시간 생존모형을 활용한 재구매 예측과 CRM 활용 전략
 
+Author : Ye seok Kim, Hyeong Oh Son, Gyu Sun Yong, So Hyun Cho, Young Gyun Kim
+
 온라인 리테일 거래 데이터로 **고객별 4주 내 재구매 확률을 주차 단위로 예측**하고,
 예측 확률을 세그먼트·코호트와 결합해 **CRM 대상 선정**까지 연결한 프로젝트입니다.
 
