@@ -6,7 +6,9 @@ Author : Ye seok Kim, Hyeong Oh Son, Gyu Sun Yong, So Hyun Cho, Young Gyun Kim
 예측 확률을 세그먼트·코호트와 결합해 **CRM 대상 선정**까지 연결한 프로젝트입니다.
 
 <!-- TODO: 링크·학회 표기·역할 확인 -->
-[논문](docs/paper.pdf) · [발표 자료](docs/slides.pdf) · [상세 결과](docs/results.md)
+- [논문](docs/paper.pdf)
+- [발표 자료](docs/slides.pdf)
+- [상세 결과](docs/results.md)(전체 모델 비교표, 가설 검정 부트스트랩 유의성 표)
 
 한국정보처리학회 ACK 2026 · 제1저자 (전처리, 피처 설계, 모델링·검증, CRM 분석)
 
